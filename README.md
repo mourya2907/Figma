@@ -1,5 +1,5 @@
 # Ex09 Event Registration Web Application
-# Date:
+# Date: 18.12.2025
 # AIM:
 To design, develop and deploy a web application for event registration.
 
@@ -29,6 +29,217 @@ Publish the website in the given URL.
 Figma
 
 # CODE:
+```
+page1
+
+.iphone-plus {
+  background-color: #ffffff;
+  width: 100%;
+  min-width: 563px;
+  min-height: 1008px;
+  position: relative;
+}
+
+.iphone-plus .image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 563px;
+  height: 1008px;
+  aspect-ratio: 0.75;
+  object-fit: cover;
+}
+
+.iphone-plus .AURORA-NIGHT {
+  position: absolute;
+  top: 341px;
+  left: 47px;
+  width: 469px;
+  font-family: "Irish Grover-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-plus .text-wrapper {
+  position: absolute;
+  top: 524px;
+  left: 70px;
+  width: 446px;
+  font-family: "Jaini Purva-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-plus .logo {
+    position: absolute;
+    top: 0;
+    left: 162px;
+    width: 263px;
+    height: 240px;
+    aspect-ratio: 1.09;
+    object-fit: cover;
+}
+
+
+page2
+
+.iphone-plus {
+  background-color: #ffffff;
+  width: 100%;
+  min-width: 563px;
+  min-height: 1008px;
+  position: relative;
+}
+
+.iphone-plus .image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 563px;
+  height: 1008px;
+  aspect-ratio: 0.56;
+  object-fit: cover;
+}
+
+.iphone-plus .EVENTS {
+  position: absolute;
+  top: 80px;
+  left: calc(50.00% - 202px);
+  width: 403px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Irish Grover-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-plus .MUSIC-CLASSICAL {
+  position: absolute;
+  top: 325px;
+  left: 58px;
+  width: 439px;
+  font-family: "Irish Grover-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+page3
+
+.iphone-plus {
+  background-color: #ffffff;
+  width: 100%;
+  min-width: 564px;
+  min-height: 1008px;
+  position: relative;
+}
+
+.iphone-plus .image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 564px;
+  height: 1008px;
+  aspect-ratio: 0.75;
+  object-fit: cover;
+}
+
+.iphone-plus .EVENT-REGISTRATION {
+  position: absolute;
+  top: 31px;
+  left: 19px;
+  width: 521px;
+  font-family: "Irish Grover-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-plus .NAME-DEPT-YEAR {
+  position: absolute;
+  top: 348px;
+  left: 29px;
+  width: 499px;
+  font-family: "Irish Grover-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+page4
+
+.iphone-plus {
+  background-color: #ffffff;
+  width: 100%;
+  min-width: 564px;
+  min-height: 1008px;
+  position: relative;
+}
+
+.iphone-plus .image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 564px;
+  height: 1008px;
+  aspect-ratio: 0.75;
+  object-fit: cover;
+}
+
+.iphone-plus .text-wrapper {
+  position: absolute;
+  top: 189px;
+  left: 85px;
+  width: 372px;
+  font-family: "Irish Grover-Regular", Helvetica;
+  font-weight: 400;
+  color: #9f2aae;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-plus .AURORANIGHT-GMAIL {
+  position: absolute;
+  top: 337px;
+  left: calc(50.00% - 282px);
+  width: 564px;
+  font-family: "Irish Grover-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+```
 # OUTPUT:
+<img width="1919" height="1079" alt="ot1" src="https://github.com/user-attachments/assets/a54df55f-5dd3-4c86-9d04-827570d46ed2" />
+
+<img width="1919" height="1079" alt="ot2" src="https://github.com/user-attachments/assets/a7a2b693-8f20-4b6a-b60f-06ee57110c4e" />
+
+<img width="1919" height="1079" alt="ot3" src="https://github.com/user-attachments/assets/de4e354e-aa83-4525-920f-d6b46d28269f" />
+
+<img width="1915" height="1079" alt="ot4" src="https://github.com/user-attachments/assets/7dae473e-f032-42b7-b162-49f277ccbfee" />
+
+
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
